@@ -20,7 +20,8 @@ El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de res
 ## **Fases del Proyecto**
 
 
-## **1. Limpieza de Datos:**  🛠️ Realizar una limpieza completa del conjunto de datos, abordando posibles valores atípicos, datos faltantes y errores tipográficos que puedan afectar el análisis.
+## **1. Limpieza de Datos:**  🛠️ 
+Realizar una limpieza completa del conjunto de datos, abordando posibles valores atípicos, datos faltantes y errores tipográficos que puedan afectar el análisis.
 
 ## **2. Preguntas que debemos resolver:** 🔍
 
