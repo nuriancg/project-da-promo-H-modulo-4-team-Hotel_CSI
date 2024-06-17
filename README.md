@@ -7,7 +7,7 @@
 - Silvia Marrero
 - Violaine Deloustal
 
-## ** Resumen**📝
+## **Resumen**📝
 
 En este desafío, nos sumergiremos en el apasionante mundo del reporting de datos, donde adquirireis las habilidades clave para transformar datos crudos en información significativa y visualmente impactante.
 
