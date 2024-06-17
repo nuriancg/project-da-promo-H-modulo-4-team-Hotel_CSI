@@ -20,9 +20,9 @@ El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de res
 ## **Fases del Proyecto**
 
 
-**1. Limpieza de Datos:**  🛠️ Realizar una limpieza completa del conjunto de datos, abordando posibles valores atípicos, datos faltantes y errores tipográficos que puedan afectar el análisis.
+## **1. Limpieza de Datos:**  🛠️ Realizar una limpieza completa del conjunto de datos, abordando posibles valores atípicos, datos faltantes y errores tipográficos que puedan afectar el análisis.
 
-**2. Preguntas que debemos resolver:** 🔍
+## **2. Preguntas que debemos resolver:** 🔍
 
 ¿Cuál es la tasa de cancelación de este hotel?.
 
@@ -44,7 +44,7 @@ Las reservas que tienen un “adr” bajo, ¿tienen un riesgo menor de cancelaci
 
 Relación con otras variables: Analizar cómo otras variables, como el tipo de comida incluida en la reserva o el número de solicitudes especiales, están relacionadas con las cancelaciones.
 
-**3. Representación gráfica** 📊
+## **3. Representación gráfica** 📊
 Representación visual del análisis realizado en la fase anterior.
  
 ## **Historias de usuario** 🎯
