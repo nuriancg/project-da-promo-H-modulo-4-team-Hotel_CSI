@@ -23,6 +23,14 @@ El objetivo es llevar a cabo un análisis exhaustivo de las cancelaciones de res
 ## **1. Limpieza de Datos:**  🛠️ 
 Realizar una limpieza completa del conjunto de datos, abordando posibles valores atípicos, datos faltantes y errores tipográficos que puedan afectar el análisis.
 
+### **Datos:**
+El conjunto de datos contiene información sobre reservas de hoteles. A continuación, tenemos una descripción de lo que nos podemos encontrar en el conjunto de datos:
+
+![Screenshot 2024-06-30 at 22 21 22](https://github.com/nuriancg/project-da-promo-H-modulo-4-team-Hotel_CSI/assets/163455143/63a51dda-a8cc-45d8-beb7-a2fc9d2527b2)
+![Screenshot 2024-06-30 at 22 21 37](https://github.com/nuriancg/project-da-promo-H-modulo-4-team-Hotel_CSI/assets/163455143/5bf9bc66-5ef0-454c-a2a0-580e5359c66c)
+![Screenshot 2024-06-30 at 22 21 55](https://github.com/nuriancg/project-da-promo-H-modulo-4-team-Hotel_CSI/assets/163455143/59eed48c-b0b3-4892-bc69-3c8144d574f4)
+
+
 ## **2. Preguntas que debemos resolver:** 🔍
 
 ¿Cuál es la tasa de cancelación de este hotel?.
