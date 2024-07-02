@@ -54,7 +54,7 @@ Las reservas que tienen un “adr” bajo, ¿tienen un riesgo menor de cancelaci
 Relación con otras variables: Analizar cómo otras variables, como el tipo de comida incluida en la reserva o el número de solicitudes especiales, están relacionadas con las cancelaciones.
 
 ## **3. Representación gráfica** 📊
-Representación visual del análisis realizado en la fase anterior.
+Representación visual en Power BI del análisis realizado en la fase anterior.
  
 ## **Historias de usuario** 🎯
 
