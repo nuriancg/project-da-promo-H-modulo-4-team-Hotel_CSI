@@ -2,7 +2,7 @@
 
 ## Participantes en el proyecto 👥
 - [Margarita Torres](https://www.linkedin.com/in/margarita-torres-r/)
-- [Nuria Cano](www.linkedin.com/in/nuria-cano-girones)
+- [Nuria Cano](https://www.linkedin.com/in/nuria-cano-girones)
 - [Sharon Armeni](https://www.linkedin.com/in/sharon-armeni)
 - [Silvia Marrero](www.linkedin.com/in/silvia-marrero-pazos-0b95b083)
 - [Violaine Deloustal](https://www.linkedin.com/in/violaine-deloustal-b35498105/)
