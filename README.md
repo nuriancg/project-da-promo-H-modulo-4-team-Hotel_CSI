@@ -3,7 +3,7 @@
 ## Participantes en el proyecto 👥
 - Margarita Torres
 - Nuria Cano
-- Sharon Armeni
+- [Sharon Armeni](https://www.linkedin.com/in/sharon-armeni)
 - Silvia Marrero
 - Violaine Deloustal
 
